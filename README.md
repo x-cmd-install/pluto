@@ -12,6 +12,28 @@ A cli tool to help discover deprecated apiVersions in Kubernetes
 x install pluto
 ```
 
+## Code insight
+
+Total: **23,076** lines of code across **46** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 18,162 | 0 | 0 | 7 |
+| Go | 3,394 | 624 | 381 | 19 |
+| Yaml | 1,397 | 44 | 38 | 18 |
+| Pan | 58 | 0 | 5 | 1 |
+| Makefile | 33 | 2 | 1 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **5.1 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/FairwindsOps/pluto>
@@ -36,31 +58,12 @@ x install pluto
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 4 | 1 | 0 | 0 |
-| 90d | 2026-06-12 | 2 | 3 | 7 | 3 | 1 | 0 |
-| 360d | 2025-09-15 | 8 | 17 | 8 | 6 | 1 | 0 |
-
-## Code size
-
-Total: **23,076** lines of code across **46** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 18,162 | 0 | 0 | 7 |
-| Go | 3,394 | 624 | 381 | 19 |
-| Yaml | 1,397 | 44 | 38 | 18 |
-| Pan | 58 | 0 | 5 | 1 |
-| Makefile | 33 | 2 | 1 | 1 |
-
-## OpenSSF Scorecard
-
-Overall score: **5.1 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+| 30d | 2026-08-11 | 0 | 1 | 4 | 1 | 0 | 3 |
+| last60d | 2026-07-12 | 1 | 2 | 7 | 1 | 1 | 8 |
+| 90d | 2026-06-12 | 2 | 3 | 7 | 3 | 1 | 9 |
+| last180d | 2026-03-14 | 3 | 6 | 8 | 4 | 1 | 17 |
+| 360d | 2025-09-15 | 8 | 17 | 8 | 6 | 1 | 27 |
+| last720d | 2024-09-20 | 23 | 32 | 8 | 16 | 1 | 53 |
 
 ## Release assets
 
@@ -94,4 +97,4 @@ Install metadata for pluto lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T18:31:03Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:40:27Z._
