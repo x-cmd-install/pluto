@@ -26,12 +26,12 @@ Total: **23,076** lines of code across **46** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,578 · **Forks**: 141 · **Open issues**: 190 · **Contributors**: 47
+- **Stars**: 2,577 · **Forks**: 141 · **Open issues**: 190 · **Contributors**: 47
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 1 | 4 | 1 | 0 | 4 |
-| last60d | 2026-07-15 | 1 | 2 | 7 | 1 | 1 | 9 |
-| 90d | 2026-06-15 | 2 | 3 | 7 | 3 | 1 | 10 |
-| last180d | 2026-03-17 | 3 | 6 | 7 | 4 | 1 | 18 |
-| 360d | 2025-09-18 | 8 | 16 | 7 | 5 | 1 | 28 |
-| last720d | 2024-09-23 | 23 | 32 | 7 | 16 | 1 | 46 |
+| 30d | 2026-08-15 | 0 | 1 | 4 | 1 | 0 | 4 |
+| last60d | 2026-07-16 | 1 | 2 | 6 | 1 | 1 | 9 |
+| 90d | 2026-06-16 | 2 | 3 | 7 | 3 | 1 | 10 |
+| last180d | 2026-03-18 | 3 | 6 | 7 | 4 | 1 | 18 |
+| 360d | 2025-09-19 | 8 | 16 | 7 | 5 | 1 | 28 |
+| last720d | 2024-09-24 | 23 | 31 | 7 | 16 | 1 | 46 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for pluto lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:29:54Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:49:25Z._
