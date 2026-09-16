@@ -14,7 +14,7 @@ x install pluto
 
 ## Code insight
 
-Total: **23,076** lines of code across **46** files in the top 5 languages.
+Total: **23,077** lines of code across **46** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -42,51 +42,51 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v5.24.3` (2026-08-10)
-- **Last commit**: 2026-09-14
+- **Latest**: `v5.24.4` (2026-09-15)
+- **Last commit**: 2026-09-15
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 2,577 · **Forks**: 141 · **Open issues**: 191 · **Contributors**: 47
+- **Stars**: 2,578 · **Forks**: 141 · **Open issues**: 191 · **Contributors**: 47
 
 ## Totals (cumulative)
 
-- **Releases**: 132 · **Merged PRs**: 283 · **Open PRs**: 7 · **Closed issues**: 185 · **Open issues**: 6 · **Commits**: 349
+- **Releases**: 133 · **Merged PRs**: 284 · **Open PRs**: 7 · **Closed issues**: 185 · **Open issues**: 6 · **Commits**: 350
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 1 | 4 | 1 | 1 | 0 |
-| last60d | 2026-07-17 | 1 | 2 | 6 | 1 | 2 | 0 |
-| 90d | 2026-06-17 | 2 | 3 | 7 | 3 | 2 | 0 |
-| last180d | 2026-03-19 | 3 | 6 | 7 | 4 | 2 | 0 |
-| 360d | 2025-09-20 | 8 | 16 | 7 | 5 | 2 | 0 |
-| last720d | 2024-09-25 | 22 | 31 | 7 | 16 | 2 | 46 |
+| 30d | 2026-08-17 | 1 | 2 | 3 | 1 | 1 | 6 |
+| last60d | 2026-07-18 | 2 | 3 | 6 | 1 | 2 | 11 |
+| 90d | 2026-06-18 | 3 | 4 | 7 | 3 | 2 | 12 |
+| last180d | 2026-03-20 | 4 | 7 | 7 | 4 | 2 | 20 |
+| 360d | 2025-09-21 | 9 | 17 | 7 | 5 | 2 | 30 |
+| last720d | 2024-09-26 | 23 | 32 | 7 | 16 | 2 | 47 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/checksums.txt) | 790 B | `other` |
-| [checksums.txt.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/checksums.txt.sigstore.json) | 3.8 KiB | `other` |
-| [pluto_5.24.3_darwin_amd64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/pluto_5.24.3_darwin_amd64.tar.gz) | 10.2 MiB | `native/darwin/x64` |
-| [pluto_5.24.3_darwin_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/pluto_5.24.3_darwin_amd64.tar.gz.sigstore.json) | 3.7 KiB | `native/darwin/x64` |
-| [pluto_5.24.3_darwin_arm64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/pluto_5.24.3_darwin_arm64.tar.gz) | 9.2 MiB | `native/darwin/arm64` |
-| [pluto_5.24.3_darwin_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/pluto_5.24.3_darwin_arm64.tar.gz.sigstore.json) | 3.8 KiB | `native/darwin/arm64` |
-| [pluto_5.24.3_linux_amd64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/pluto_5.24.3_linux_amd64.tar.gz) | 10.0 MiB | `native/linux/x64` |
-| [pluto_5.24.3_linux_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/pluto_5.24.3_linux_amd64.tar.gz.sigstore.json) | 3.7 KiB | `native/linux/x64` |
-| [pluto_5.24.3_linux_arm64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/pluto_5.24.3_linux_arm64.tar.gz) | 8.8 MiB | `native/linux/arm64` |
-| [pluto_5.24.3_linux_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/pluto_5.24.3_linux_arm64.tar.gz.sigstore.json) | 3.6 KiB | `native/linux/arm64` |
-| [pluto_5.24.3_linux_armv6.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/pluto_5.24.3_linux_armv6.tar.gz) | 9.5 MiB | `native/linux/arm` |
-| [pluto_5.24.3_linux_armv6.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/pluto_5.24.3_linux_armv6.tar.gz.sigstore.json) | 3.7 KiB | `native/linux/arm` |
-| [pluto_5.24.3_linux_armv7.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/pluto_5.24.3_linux_armv7.tar.gz) | 9.5 MiB | `native/linux/arm` |
-| [pluto_5.24.3_linux_armv7.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/pluto_5.24.3_linux_armv7.tar.gz.sigstore.json) | 3.7 KiB | `native/linux/arm` |
-| [pluto_5.24.3_windows_amd64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/pluto_5.24.3_windows_amd64.tar.gz) | 10.3 MiB | `native/win/x64` |
-| [pluto_5.24.3_windows_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/pluto_5.24.3_windows_amd64.tar.gz.sigstore.json) | 3.8 KiB | `native/win/x64` |
-| [pluto_5.24.3_windows_arm64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/pluto_5.24.3_windows_arm64.tar.gz) | 8.9 MiB | `native/win/arm64` |
-| [pluto_5.24.3_windows_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.3/pluto_5.24.3_windows_arm64.tar.gz.sigstore.json) | 3.7 KiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/checksums.txt) | 790 B | `other` |
+| [checksums.txt.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/checksums.txt.sigstore.json) | 3.6 KiB | `other` |
+| [pluto_5.24.4_darwin_amd64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/pluto_5.24.4_darwin_amd64.tar.gz) | 10.3 MiB | `native/darwin/x64` |
+| [pluto_5.24.4_darwin_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/pluto_5.24.4_darwin_amd64.tar.gz.sigstore.json) | 3.7 KiB | `native/darwin/x64` |
+| [pluto_5.24.4_darwin_arm64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/pluto_5.24.4_darwin_arm64.tar.gz) | 9.3 MiB | `native/darwin/arm64` |
+| [pluto_5.24.4_darwin_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/pluto_5.24.4_darwin_arm64.tar.gz.sigstore.json) | 3.6 KiB | `native/darwin/arm64` |
+| [pluto_5.24.4_linux_amd64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/pluto_5.24.4_linux_amd64.tar.gz) | 10.1 MiB | `native/linux/x64` |
+| [pluto_5.24.4_linux_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/pluto_5.24.4_linux_amd64.tar.gz.sigstore.json) | 3.7 KiB | `native/linux/x64` |
+| [pluto_5.24.4_linux_arm64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/pluto_5.24.4_linux_arm64.tar.gz) | 8.8 MiB | `native/linux/arm64` |
+| [pluto_5.24.4_linux_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/pluto_5.24.4_linux_arm64.tar.gz.sigstore.json) | 3.7 KiB | `native/linux/arm64` |
+| [pluto_5.24.4_linux_armv6.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/pluto_5.24.4_linux_armv6.tar.gz) | 9.6 MiB | `native/linux/arm` |
+| [pluto_5.24.4_linux_armv6.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/pluto_5.24.4_linux_armv6.tar.gz.sigstore.json) | 3.6 KiB | `native/linux/arm` |
+| [pluto_5.24.4_linux_armv7.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/pluto_5.24.4_linux_armv7.tar.gz) | 9.6 MiB | `native/linux/arm` |
+| [pluto_5.24.4_linux_armv7.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/pluto_5.24.4_linux_armv7.tar.gz.sigstore.json) | 3.7 KiB | `native/linux/arm` |
+| [pluto_5.24.4_windows_amd64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/pluto_5.24.4_windows_amd64.tar.gz) | 10.4 MiB | `native/win/x64` |
+| [pluto_5.24.4_windows_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/pluto_5.24.4_windows_amd64.tar.gz.sigstore.json) | 3.7 KiB | `native/win/x64` |
+| [pluto_5.24.4_windows_arm64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/pluto_5.24.4_windows_arm64.tar.gz) | 8.9 MiB | `native/win/arm64` |
+| [pluto_5.24.4_windows_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.4/pluto_5.24.4_windows_arm64.tar.gz.sigstore.json) | 3.6 KiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -97,4 +97,4 @@ Install metadata for pluto lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:53:19Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:53:17Z._
