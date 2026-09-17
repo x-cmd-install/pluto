@@ -14,15 +14,15 @@ x install pluto
 
 ## Code insight
 
-Total: **23,077** lines of code across **46** files in the top 5 languages.
+Total: **23,351** lines of code across **61** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 18,162 | 0 | 0 | 7 |
 | Go | 3,394 | 624 | 381 | 19 |
-| Yaml | 1,397 | 44 | 38 | 18 |
+| Yaml | 1,617 | 45 | 41 | 28 |
+| Sh | 70 | 6 | 29 | 6 |
 | Pan | 58 | 0 | 5 | 1 |
-| Makefile | 33 | 2 | 1 | 1 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.24.4` (2026-09-15)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-16
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 2,578 · **Forks**: 141 · **Open issues**: 191 · **Contributors**: 47
+- **Stars**: 2,579 · **Forks**: 141 · **Open issues**: 191 · **Contributors**: 47
 
 ## Totals (cumulative)
 
-- **Releases**: 133 · **Merged PRs**: 284 · **Open PRs**: 7 · **Closed issues**: 185 · **Open issues**: 6 · **Commits**: 350
+- **Releases**: 133 · **Merged PRs**: 285 · **Open PRs**: 7 · **Closed issues**: 185 · **Open issues**: 6 · **Commits**: 351
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 2 | 3 | 1 | 1 | 6 |
-| last60d | 2026-07-18 | 2 | 3 | 6 | 1 | 2 | 11 |
-| 90d | 2026-06-18 | 3 | 4 | 7 | 3 | 2 | 12 |
-| last180d | 2026-03-20 | 4 | 7 | 7 | 4 | 2 | 20 |
-| 360d | 2025-09-21 | 9 | 17 | 7 | 5 | 2 | 30 |
-| last720d | 2024-09-26 | 23 | 32 | 7 | 16 | 2 | 47 |
+| 30d | 2026-08-18 | 1 | 3 | 3 | 1 | 1 | 7 |
+| last60d | 2026-07-19 | 2 | 4 | 6 | 1 | 2 | 12 |
+| 90d | 2026-06-19 | 3 | 5 | 7 | 3 | 2 | 13 |
+| last180d | 2026-03-21 | 4 | 8 | 7 | 4 | 2 | 21 |
+| 360d | 2025-09-22 | 9 | 18 | 7 | 5 | 2 | 31 |
+| last720d | 2024-09-27 | 23 | 33 | 7 | 16 | 2 | 48 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for pluto lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:53:17Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:47:48Z._
