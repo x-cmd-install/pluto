@@ -4,7 +4,7 @@
 
 A cli tool to help discover deprecated apiVersions in Kubernetes
 
-![pluto](https://repo.x-cmd.io/pluto.svg)
+[![x-cmd/install — pluto Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pluto.svg)](https://x-cmd.com/install/pluto)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install pluto
 
 ## Code insight
 
-Total: **23,351** lines of code across **61** files in the top 5 languages.
+Total: **23,296** lines of code across **61** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 18,162 | 0 | 0 | 7 |
+| Json | 18,107 | 0 | 0 | 7 |
 | Go | 3,394 | 624 | 381 | 19 |
 | Yaml | 1,617 | 45 | 41 | 28 |
 | Sh | 70 | 6 | 29 | 6 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.24.4` (2026-09-15)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-18
 - **Assets in release**: 18
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 133 · **Merged PRs**: 285 · **Open PRs**: 7 · **Closed issues**: 185 · **Open issues**: 6 · **Commits**: 351
+- **Releases**: 133 · **Merged PRs**: 285 · **Open PRs**: 7 · **Closed issues**: 185 · **Open issues**: 6 · **Commits**: 352
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 3 | 3 | 1 | 1 | 7 |
-| last60d | 2026-07-20 | 2 | 4 | 6 | 1 | 2 | 12 |
-| 90d | 2026-06-20 | 3 | 5 | 7 | 3 | 2 | 13 |
-| last180d | 2026-03-22 | 4 | 8 | 7 | 4 | 2 | 21 |
-| 360d | 2025-09-23 | 9 | 18 | 7 | 5 | 2 | 31 |
-| last720d | 2024-09-28 | 23 | 33 | 7 | 16 | 2 | 48 |
+| 30d | 2026-08-21 | 1 | 2 | 3 | 1 | 1 | 8 |
+| last60d | 2026-07-22 | 2 | 4 | 6 | 1 | 2 | 13 |
+| 90d | 2026-06-22 | 3 | 5 | 7 | 3 | 2 | 14 |
+| last180d | 2026-03-24 | 4 | 8 | 7 | 4 | 2 | 22 |
+| 360d | 2025-09-25 | 9 | 18 | 7 | 4 | 2 | 32 |
+| last720d | 2024-09-30 | 23 | 33 | 7 | 16 | 2 | 49 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for pluto lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:41:13Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:35:48Z._
