@@ -26,12 +26,12 @@ x install pluto
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.2 / 10**
+总评分: **5.1 / 10**
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
@@ -48,7 +48,7 @@ x install pluto
 
 ## 流行度
 
-- **Star**: 2,580 · **Fork**: 141 · **开放 issue**: 191 · **贡献者**: 47
+- **Star**: 2,581 · **Fork**: 141 · **开放 issue**: 191 · **贡献者**: 47
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install pluto
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 1 | 2 | 3 | 1 | 1 | 8 |
-| last60d | 2026-07-22 | 2 | 4 | 6 | 1 | 2 | 13 |
-| 90d | 2026-06-22 | 3 | 5 | 7 | 3 | 2 | 14 |
-| last180d | 2026-03-24 | 4 | 8 | 7 | 4 | 2 | 22 |
-| 360d | 2025-09-25 | 9 | 18 | 7 | 4 | 2 | 32 |
-| last720d | 2024-09-30 | 23 | 33 | 7 | 16 | 2 | 49 |
+| 30d | 2026-08-22 | 1 | 2 | 3 | 1 | 1 | 8 |
+| last60d | 2026-07-23 | 2 | 4 | 6 | 1 | 2 | 13 |
+| 90d | 2026-06-23 | 3 | 5 | 7 | 3 | 2 | 14 |
+| last180d | 2026-03-25 | 4 | 8 | 7 | 4 | 2 | 22 |
+| 360d | 2025-09-26 | 9 | 18 | 7 | 4 | 2 | 32 |
+| last720d | 2024-10-01 | 23 | 33 | 7 | 16 | 2 | 49 |
 
 ## Release 资产
 
@@ -97,4 +97,4 @@ pluto 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260920.yml` · 2026-09-20T06:35:48Z._
+_数据快照: `data/card/260921.yml` · 2026-09-21T06:40:25Z._

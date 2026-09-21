@@ -26,12 +26,12 @@ Total: **23,296** lines of code across **61** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.2 / 10**
+Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,580 · **Forks**: 141 · **Open issues**: 191 · **Contributors**: 47
+- **Stars**: 2,581 · **Forks**: 141 · **Open issues**: 191 · **Contributors**: 47
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 1 | 2 | 3 | 1 | 1 | 8 |
-| last60d | 2026-07-22 | 2 | 4 | 6 | 1 | 2 | 13 |
-| 90d | 2026-06-22 | 3 | 5 | 7 | 3 | 2 | 14 |
-| last180d | 2026-03-24 | 4 | 8 | 7 | 4 | 2 | 22 |
-| 360d | 2025-09-25 | 9 | 18 | 7 | 4 | 2 | 32 |
-| last720d | 2024-09-30 | 23 | 33 | 7 | 16 | 2 | 49 |
+| 30d | 2026-08-22 | 1 | 2 | 3 | 1 | 1 | 8 |
+| last60d | 2026-07-23 | 2 | 4 | 6 | 1 | 2 | 13 |
+| 90d | 2026-06-23 | 3 | 5 | 7 | 3 | 2 | 14 |
+| last180d | 2026-03-25 | 4 | 8 | 7 | 4 | 2 | 22 |
+| 360d | 2025-09-26 | 9 | 18 | 7 | 4 | 2 | 32 |
+| last720d | 2024-10-01 | 23 | 33 | 7 | 16 | 2 | 49 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for pluto lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:35:48Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:40:24Z._
