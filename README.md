@@ -4,7 +4,7 @@
 
 A cli tool to help discover deprecated apiVersions in Kubernetes
 
-[![x-cmd/install — pluto Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pluto.svg)](https://x-cmd.com/install/pluto)
+[![x-cmd/install — pluto Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/pluto.svg)](https://x-cmd.com/install/pluto)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,581 · **Forks**: 141 · **Open issues**: 191 · **Contributors**: 47
+- **Stars**: 2,582 · **Forks**: 141 · **Open issues**: 191 · **Contributors**: 47
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 2 | 3 | 1 | 1 | 8 |
-| last60d | 2026-07-24 | 2 | 4 | 6 | 1 | 2 | 13 |
-| 90d | 2026-06-24 | 3 | 5 | 7 | 2 | 2 | 14 |
-| last180d | 2026-03-26 | 4 | 8 | 7 | 4 | 2 | 22 |
-| 360d | 2025-09-27 | 9 | 18 | 7 | 4 | 2 | 32 |
-| last720d | 2024-10-02 | 23 | 33 | 7 | 16 | 2 | 49 |
+| 30d | 2026-08-24 | 1 | 2 | 3 | 1 | 1 | 8 |
+| last60d | 2026-07-25 | 2 | 4 | 6 | 1 | 2 | 13 |
+| 90d | 2026-06-25 | 3 | 5 | 7 | 2 | 2 | 14 |
+| last180d | 2026-03-27 | 4 | 8 | 7 | 4 | 2 | 22 |
+| 360d | 2025-09-28 | 9 | 18 | 7 | 4 | 2 | 32 |
+| last720d | 2024-10-03 | 23 | 33 | 7 | 16 | 2 | 49 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for pluto lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:46:17Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:49:08Z._
