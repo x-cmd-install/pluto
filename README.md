@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,583 · **Forks**: 142 · **Open issues**: 191 · **Contributors**: 47
+- **Stars**: 2,584 · **Forks**: 142 · **Open issues**: 191 · **Contributors**: 47
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 2 | 3 | 0 | 1 | 6 |
-| last60d | 2026-07-31 | 2 | 4 | 6 | 1 | 2 | 13 |
-| 90d | 2026-07-01 | 3 | 5 | 7 | 2 | 2 | 14 |
-| last180d | 2026-04-02 | 4 | 7 | 7 | 4 | 2 | 21 |
-| 360d | 2025-10-04 | 9 | 18 | 7 | 4 | 2 | 32 |
-| last720d | 2024-10-09 | 23 | 33 | 7 | 16 | 2 | 49 |
+| 30d | 2026-08-31 | 1 | 2 | 3 | 0 | 1 | 6 |
+| last60d | 2026-08-01 | 2 | 4 | 6 | 1 | 2 | 13 |
+| 90d | 2026-07-02 | 3 | 5 | 7 | 2 | 2 | 14 |
+| last180d | 2026-04-03 | 4 | 7 | 7 | 4 | 2 | 21 |
+| 360d | 2025-10-05 | 9 | 18 | 7 | 4 | 2 | 32 |
+| last720d | 2024-10-10 | 23 | 33 | 7 | 16 | 2 | 49 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for pluto lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T07:13:35Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T07:05:00Z._
