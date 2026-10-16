@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 1 | 2 | 0 | 0 | 1 |
-| last60d | 2026-08-16 | 1 | 3 | 6 | 1 | 1 | 8 |
-| 90d | 2026-07-17 | 2 | 4 | 7 | 1 | 2 | 13 |
-| last180d | 2026-04-18 | 4 | 7 | 7 | 4 | 2 | 19 |
-| 360d | 2025-10-20 | 9 | 18 | 7 | 4 | 2 | 32 |
-| last720d | 2024-10-25 | 23 | 33 | 7 | 16 | 2 | 49 |
+| 30d | 2026-09-16 | 0 | 0 | 2 | 0 | 0 | 1 |
+| last60d | 2026-08-17 | 1 | 3 | 5 | 1 | 1 | 8 |
+| 90d | 2026-07-18 | 2 | 4 | 7 | 1 | 2 | 13 |
+| last180d | 2026-04-19 | 4 | 7 | 7 | 4 | 2 | 19 |
+| 360d | 2025-10-21 | 9 | 18 | 7 | 4 | 2 | 32 |
+| last720d | 2024-10-26 | 23 | 33 | 7 | 16 | 2 | 49 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for pluto lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:59:12Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:51:56Z._
