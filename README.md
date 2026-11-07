@@ -14,12 +14,12 @@ x install pluto
 
 ## Code insight
 
-Total: **23,302** lines of code across **61** files in the top 5 languages.
+Total: **8,175** lines of code across **61** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 18,113 | 0 | 0 | 7 |
 | Go | 3,394 | 624 | 381 | 19 |
+| Json | 2,936 | 0 | 0 | 7 |
 | Yaml | 1,617 | 45 | 41 | 28 |
 | Sh | 70 | 6 | 29 | 6 |
 | Pan | 58 | 0 | 5 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.24.5` (2026-11-03)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-06
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 2,601 · **Forks**: 141 · **Open issues**: 191 · **Contributors**: 47
+- **Stars**: 2,602 · **Forks**: 141 · **Open issues**: 191 · **Contributors**: 47
 
 ## Totals (cumulative)
 
-- **Releases**: 134 · **Merged PRs**: 286 · **Open PRs**: 11 · **Closed issues**: 185 · **Open issues**: 6 · **Commits**: 355
+- **Releases**: 134 · **Merged PRs**: 287 · **Open PRs**: 9 · **Closed issues**: 185 · **Open issues**: 6 · **Commits**: 356
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 1 | 5 | 0 | 0 | 3 |
-| last60d | 2026-09-07 | 2 | 3 | 6 | 0 | 1 | 9 |
-| 90d | 2026-08-08 | 3 | 4 | 10 | 1 | 1 | 13 |
-| last180d | 2026-05-10 | 4 | 6 | 11 | 4 | 2 | 17 |
-| 360d | 2025-11-11 | 9 | 18 | 11 | 4 | 2 | 34 |
-| last720d | 2024-11-16 | 24 | 34 | 11 | 16 | 2 | 52 |
+| 30d | 2026-10-08 | 1 | 2 | 3 | 0 | 0 | 4 |
+| last60d | 2026-09-08 | 2 | 4 | 4 | 0 | 1 | 10 |
+| 90d | 2026-08-09 | 3 | 5 | 8 | 1 | 1 | 14 |
+| last180d | 2026-05-11 | 4 | 7 | 9 | 4 | 2 | 18 |
+| 360d | 2025-11-12 | 9 | 19 | 9 | 4 | 2 | 35 |
+| last720d | 2024-11-17 | 24 | 35 | 9 | 16 | 2 | 53 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for pluto lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:15:19Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:26:07Z._
