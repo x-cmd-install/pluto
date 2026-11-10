@@ -26,13 +26,13 @@ Total: **8,175** lines of code across **61** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (4/10) — Found 14/29 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,602 · **Forks**: 141 · **Open issues**: 191 · **Contributors**: 47
+- **Stars**: 2,602 · **Forks**: 142 · **Open issues**: 191 · **Contributors**: 47
 
 ## Totals (cumulative)
 
-- **Releases**: 134 · **Merged PRs**: 287 · **Open PRs**: 9 · **Closed issues**: 185 · **Open issues**: 6 · **Commits**: 356
+- **Releases**: 134 · **Merged PRs**: 287 · **Open PRs**: 10 · **Closed issues**: 185 · **Open issues**: 6 · **Commits**: 356
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 2 | 3 | 0 | 0 | 4 |
-| last60d | 2026-09-09 | 2 | 4 | 4 | 0 | 1 | 6 |
-| 90d | 2026-08-10 | 3 | 5 | 8 | 1 | 1 | 12 |
-| last180d | 2026-05-12 | 4 | 7 | 9 | 4 | 2 | 18 |
-| 360d | 2025-11-13 | 9 | 19 | 9 | 4 | 2 | 35 |
-| last720d | 2024-11-18 | 24 | 35 | 9 | 16 | 2 | 53 |
+| 30d | 2026-10-11 | 1 | 2 | 4 | 0 | 0 | 4 |
+| last60d | 2026-09-11 | 2 | 4 | 5 | 0 | 1 | 6 |
+| 90d | 2026-08-12 | 2 | 5 | 9 | 1 | 1 | 12 |
+| last180d | 2026-05-14 | 4 | 7 | 10 | 4 | 2 | 18 |
+| 360d | 2025-11-15 | 9 | 19 | 10 | 4 | 2 | 35 |
+| last720d | 2024-11-20 | 24 | 35 | 10 | 16 | 2 | 53 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for pluto lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:22:18Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T09:13:27Z._
