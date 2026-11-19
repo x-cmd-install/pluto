@@ -12,14 +12,26 @@ A cli tool to help discover deprecated apiVersions in Kubernetes
 x install pluto
 ```
 
+## 代码洞察
+
+合计: **8,175** 行代码（覆盖前 5 种语言、共 **61** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 3,394 | 624 | 381 | 19 |
+| Json | 2,936 | 0 | 0 | 7 |
+| Yaml | 1,617 | 45 | 41 | 28 |
+| Sh | 70 | 6 | 29 | 6 |
+| Pan | 58 | 0 | 5 | 1 |
+
 ## OpenSSF Scorecard 评分
 
 总评分: **5 / 10**
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (4/10) — Found 14/29 approved changesets -- score normalized to 4
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -36,7 +48,7 @@ x install pluto
 
 ## 流行度
 
-- **Star**: 2,606 · **Fork**: 142 · **开放 issue**: 191 · **贡献者**: 47
+- **Star**: 2,608 · **Fork**: 142 · **开放 issue**: 191 · **贡献者**: 47
 
 ## 累计统计
 
@@ -46,12 +58,12 @@ x install pluto
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 2 | 3 | 0 | 0 | 4 |
-| last60d | 2026-09-17 | 1 | 2 | 3 | 0 | 0 | 4 |
-| 90d | 2026-08-18 | 2 | 5 | 3 | 1 | 1 | 12 |
-| last180d | 2026-05-20 | 4 | 7 | 5 | 4 | 2 | 18 |
-| 360d | 2025-11-21 | 9 | 19 | 5 | 4 | 2 | 35 |
-| last720d | 2024-11-26 | 24 | 35 | 5 | 16 | 2 | 53 |
+| 30d | 2026-10-20 | 1 | 2 | 3 | 0 | 0 | 4 |
+| last60d | 2026-09-20 | 1 | 2 | 3 | 0 | 0 | 4 |
+| 90d | 2026-08-21 | 2 | 4 | 3 | 1 | 1 | 12 |
+| last180d | 2026-05-23 | 4 | 7 | 5 | 4 | 2 | 18 |
+| 360d | 2025-11-24 | 9 | 19 | 5 | 4 | 2 | 35 |
+| last720d | 2024-11-29 | 24 | 35 | 5 | 16 | 2 | 53 |
 
 ## Release 资产
 
@@ -85,4 +97,4 @@ pluto 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T09:03:39Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T08:36:00Z._
