@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v5.24.5` (2026-11-03)
+- **Latest**: `v5.24.6` (2026-11-25)
 - **Last commit**: 2026-11-23
 - **Assets in release**: 18
 
@@ -52,41 +52,41 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 134 · **Merged PRs**: 290 · **Open PRs**: 1 · **Closed issues**: 186 · **Open issues**: 5 · **Commits**: 374
+- **Releases**: 135 · **Merged PRs**: 290 · **Open PRs**: 1 · **Closed issues**: 186 · **Open issues**: 5 · **Commits**: 374
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 3 | 1 | 0 | 0 | 20 |
-| last60d | 2026-09-26 | 1 | 3 | 1 | 0 | 0 | 20 |
-| 90d | 2026-08-27 | 2 | 5 | 1 | 1 | 0 | 28 |
-| last180d | 2026-05-29 | 4 | 10 | 1 | 5 | 1 | 34 |
-| 360d | 2025-11-30 | 9 | 22 | 1 | 5 | 1 | 51 |
-| last720d | 2024-12-05 | 24 | 38 | 1 | 17 | 1 | 71 |
+| 30d | 2026-10-27 | 2 | 3 | 1 | 0 | 0 | 20 |
+| last60d | 2026-09-27 | 2 | 3 | 1 | 0 | 0 | 20 |
+| 90d | 2026-08-28 | 3 | 5 | 1 | 1 | 0 | 28 |
+| last180d | 2026-05-30 | 5 | 10 | 1 | 5 | 1 | 34 |
+| 360d | 2025-12-01 | 10 | 22 | 1 | 5 | 1 | 51 |
+| last720d | 2024-12-06 | 25 | 38 | 1 | 17 | 1 | 71 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/checksums.txt) | 790 B | `other` |
-| [checksums.txt.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/checksums.txt.sigstore.json) | 4.0 KiB | `other` |
-| [pluto_5.24.5_darwin_amd64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/pluto_5.24.5_darwin_amd64.tar.gz) | 10.8 MiB | `native/darwin/x64` |
-| [pluto_5.24.5_darwin_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/pluto_5.24.5_darwin_amd64.tar.gz.sigstore.json) | 3.8 KiB | `native/darwin/x64` |
-| [pluto_5.24.5_darwin_arm64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/pluto_5.24.5_darwin_arm64.tar.gz) | 9.7 MiB | `native/darwin/arm64` |
-| [pluto_5.24.5_darwin_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/pluto_5.24.5_darwin_arm64.tar.gz.sigstore.json) | 3.9 KiB | `native/darwin/arm64` |
-| [pluto_5.24.5_linux_amd64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/pluto_5.24.5_linux_amd64.tar.gz) | 10.5 MiB | `native/linux/x64` |
-| [pluto_5.24.5_linux_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/pluto_5.24.5_linux_amd64.tar.gz.sigstore.json) | 3.9 KiB | `native/linux/x64` |
-| [pluto_5.24.5_linux_arm64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/pluto_5.24.5_linux_arm64.tar.gz) | 9.2 MiB | `native/linux/arm64` |
-| [pluto_5.24.5_linux_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/pluto_5.24.5_linux_arm64.tar.gz.sigstore.json) | 3.8 KiB | `native/linux/arm64` |
-| [pluto_5.24.5_linux_armv6.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/pluto_5.24.5_linux_armv6.tar.gz) | 10.0 MiB | `native/linux/arm` |
-| [pluto_5.24.5_linux_armv6.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/pluto_5.24.5_linux_armv6.tar.gz.sigstore.json) | 3.8 KiB | `native/linux/arm` |
-| [pluto_5.24.5_linux_armv7.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/pluto_5.24.5_linux_armv7.tar.gz) | 10.0 MiB | `native/linux/arm` |
-| [pluto_5.24.5_linux_armv7.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/pluto_5.24.5_linux_armv7.tar.gz.sigstore.json) | 4.0 KiB | `native/linux/arm` |
-| [pluto_5.24.5_windows_amd64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/pluto_5.24.5_windows_amd64.tar.gz) | 10.8 MiB | `native/win/x64` |
-| [pluto_5.24.5_windows_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/pluto_5.24.5_windows_amd64.tar.gz.sigstore.json) | 3.9 KiB | `native/win/x64` |
-| [pluto_5.24.5_windows_arm64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/pluto_5.24.5_windows_arm64.tar.gz) | 9.3 MiB | `native/win/arm64` |
-| [pluto_5.24.5_windows_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.5/pluto_5.24.5_windows_arm64.tar.gz.sigstore.json) | 3.8 KiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/checksums.txt) | 790 B | `other` |
+| [checksums.txt.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/checksums.txt.sigstore.json) | 3.8 KiB | `other` |
+| [pluto_5.24.6_darwin_amd64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_darwin_amd64.tar.gz) | 10.5 MiB | `native/darwin/x64` |
+| [pluto_5.24.6_darwin_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_darwin_amd64.tar.gz.sigstore.json) | 4.0 KiB | `native/darwin/x64` |
+| [pluto_5.24.6_darwin_arm64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_darwin_arm64.tar.gz) | 9.4 MiB | `native/darwin/arm64` |
+| [pluto_5.24.6_darwin_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_darwin_arm64.tar.gz.sigstore.json) | 3.9 KiB | `native/darwin/arm64` |
+| [pluto_5.24.6_linux_amd64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_linux_amd64.tar.gz) | 10.3 MiB | `native/linux/x64` |
+| [pluto_5.24.6_linux_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_linux_amd64.tar.gz.sigstore.json) | 3.9 KiB | `native/linux/x64` |
+| [pluto_5.24.6_linux_arm64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_linux_arm64.tar.gz) | 9.0 MiB | `native/linux/arm64` |
+| [pluto_5.24.6_linux_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_linux_arm64.tar.gz.sigstore.json) | 3.9 KiB | `native/linux/arm64` |
+| [pluto_5.24.6_linux_armv6.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_linux_armv6.tar.gz) | 9.7 MiB | `native/linux/arm` |
+| [pluto_5.24.6_linux_armv6.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_linux_armv6.tar.gz.sigstore.json) | 3.8 KiB | `native/linux/arm` |
+| [pluto_5.24.6_linux_armv7.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_linux_armv7.tar.gz) | 9.7 MiB | `native/linux/arm` |
+| [pluto_5.24.6_linux_armv7.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_linux_armv7.tar.gz.sigstore.json) | 3.9 KiB | `native/linux/arm` |
+| [pluto_5.24.6_windows_amd64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_windows_amd64.tar.gz) | 10.5 MiB | `native/win/x64` |
+| [pluto_5.24.6_windows_amd64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_windows_amd64.tar.gz.sigstore.json) | 3.9 KiB | `native/win/x64` |
+| [pluto_5.24.6_windows_arm64.tar.gz](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_windows_arm64.tar.gz) | 9.1 MiB | `native/win/arm64` |
+| [pluto_5.24.6_windows_arm64.tar.gz.sigstore.json](https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_windows_arm64.tar.gz.sigstore.json) | 3.9 KiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -97,4 +97,4 @@ Install metadata for pluto lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:21:20Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:24:27Z._
