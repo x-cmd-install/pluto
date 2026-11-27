@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 790,
       "digest": "sha256:053109655a45e1acb75ead4a655c39f4a5ccefe722f2d51b039505697731500d",
-      "download_count": 174,
+      "download_count": 331,
       "created_at": "2026-11-25T13:17:55Z",
       "updated_at": "2026-11-25T13:17:56Z",
       "browser_download_url": "https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3941,
       "digest": "sha256:0d253d49bd2afac9235404d729c394c2adc4648ce93e64f76736e5759f1f8d24",
-      "download_count": 103,
+      "download_count": 213,
       "created_at": "2026-11-25T13:17:57Z",
       "updated_at": "2026-11-25T13:17:57Z",
       "browser_download_url": "https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/checksums.txt.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11006164,
       "digest": "sha256:a0009fb43d27351eebc37f521189cee87d6a0e1069b4b5e89e91138c5c5ccdb4",
-      "download_count": 13,
+      "download_count": 25,
       "created_at": "2026-11-25T13:17:55Z",
       "updated_at": "2026-11-25T13:17:56Z",
       "browser_download_url": "https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4077,
       "digest": "sha256:6845fb4d28f2f953f5cb7726743f9afaab05e027c58bee22a02021f60ffa80e8",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-25T13:17:57Z",
       "updated_at": "2026-11-25T13:17:57Z",
       "browser_download_url": "https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_darwin_amd64.tar.gz.sigstore.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 9873513,
       "digest": "sha256:457c732f17d95ce000e64c63fb3e604db1af1574b7570546145253e15e670f5c",
-      "download_count": 136,
+      "download_count": 229,
       "created_at": "2026-11-25T13:17:53Z",
       "updated_at": "2026-11-25T13:17:54Z",
       "browser_download_url": "https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3985,
       "digest": "sha256:076865cfef43201f684ee2dd7ec82ee1c8d8c7d01572eada9d921066a05a3c4a",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-25T13:17:56Z",
       "updated_at": "2026-11-25T13:17:56Z",
       "browser_download_url": "https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_darwin_arm64.tar.gz.sigstore.json"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 10774233,
       "digest": "sha256:e0c9517bb6fd3c7d5062432e538593195c7f73a477736a5f48760f171cc4b78e",
-      "download_count": 781,
+      "download_count": 2098,
       "created_at": "2026-11-25T13:17:54Z",
       "updated_at": "2026-11-25T13:17:55Z",
       "browser_download_url": "https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4029,
       "digest": "sha256:26ae6345721bbbdd2793dc64f67b8b0c75736e59bded615811f89a565f1c9f13",
-      "download_count": 45,
+      "download_count": 86,
       "created_at": "2026-11-25T13:17:57Z",
       "updated_at": "2026-11-25T13:17:57Z",
       "browser_download_url": "https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_linux_amd64.tar.gz.sigstore.json"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 9403182,
       "digest": "sha256:6e6bc150cf89ca4b10003c24fe01bb3f3dcc9babe9fe370da14003444c194898",
-      "download_count": 76,
+      "download_count": 190,
       "created_at": "2026-11-25T13:17:53Z",
       "updated_at": "2026-11-25T13:17:53Z",
       "browser_download_url": "https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_linux_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 4033,
       "digest": "sha256:82167f8de8f1b6b7585a4f64198d48a7dbc9c20c11de3168029f7fe705a2f196",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-25T13:17:56Z",
       "updated_at": "2026-11-25T13:17:56Z",
       "browser_download_url": "https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_linux_arm64.tar.gz.sigstore.json"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 11051693,
       "digest": "sha256:31198fd4873be04ec44d55e0973455a57c47126df84869c66bbc3484a7562df2",
-      "download_count": 35,
+      "download_count": 55,
       "created_at": "2026-11-25T13:17:54Z",
       "updated_at": "2026-11-25T13:17:55Z",
       "browser_download_url": "https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_windows_amd64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 3981,
       "digest": "sha256:aac5549beea46777e6e7970be0c688ce5e9d456d11f06441a3a5227543c90219",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-25T13:17:56Z",
       "updated_at": "2026-11-25T13:17:56Z",
       "browser_download_url": "https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_windows_amd64.tar.gz.sigstore.json"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 9515087,
       "digest": "sha256:0d5eb1465083f073f10a52aa9a6fb727f85f3f788070596069d2141034e0a7f0",
-      "download_count": 9,
+      "download_count": 19,
       "created_at": "2026-11-25T13:17:54Z",
       "updated_at": "2026-11-25T13:17:54Z",
       "browser_download_url": "https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_windows_arm64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 4029,
       "digest": "sha256:35a75b5c1f381e934eaf209cafb5c7ca6f5b5353bf7882661bbfed2d318e90ea",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-25T13:17:56Z",
       "updated_at": "2026-11-25T13:17:56Z",
       "browser_download_url": "https://github.com/FairwindsOps/pluto/releases/download/v5.24.6/pluto_5.24.6_windows_arm64.tar.gz.sigstore.json"
